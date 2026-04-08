@@ -28,6 +28,9 @@ def header(mo):
     # Frequency Line Tracking Using HMM-based Schemes
     **An Interactive Guide to Paris & Jauffret (2003)**
 
+    > S. Paris and C. Jauffret, "Frequency line tracking using HMM-based schemes [passive sonar]," in IEEE Transactions on Aerospace and Electronic Systems, vol. 39, no. 2, pp. 439-449, April 2003, doi: 10.1109/TAES.2003.1207256.
+    keywords: {Hidden Markov models;Frequency estimation;Target tracking;Viterbi algorithm;Sonar detection;Personal digital assistants;Discrete Fourier transforms;Laboratories;Power system modeling;Performance loss},
+
     In passive sonar systems, detecting and tracking moving targets (like submarines or surface ships) often relies on identifying narrow acoustic emissions, such as the noise from rotating motor pieces. These emissions appear as **fluctuating frequency lines** embedded in severe background noise on a time-frequency image known as a *lofargram* (Low Frequency Analysis and Recording).
 
     The challenge is twofold:
